@@ -1,2 +1,2 @@
 # GSignTRTC
-Patched simulator archive of GoogleSignIn and TRTC
+Patched arm64 simulator archive of GoogleSignIn and TRTC for Apple SIlicon
